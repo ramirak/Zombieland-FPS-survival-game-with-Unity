@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 46cd524120389ad418423045618d2621
+timeCreated: 1541117219
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Battleship
+    100002: Corvette
+    100004: Cruiser
+    100006: Destroyer
+    100008: Frigate
+    100010: Large Cannons
+    100012: Large Turret
+    100014: Medium Cannons
+    100016: Medium Turret
+    100018: Platform
+    100020: //RootNode
+    100022: Small Cannons
+    100024: Small Turret
+    100026: Battleship Low Poly Mesh
+    100028: Corvette Low Poly Mesh
+    100030: Cruiser Low Poly Mesh
+    100032: Destroyer Low Poly Mesh
+    100034: Frigate Low Poly Mesh
+    400000: Battleship
+    400002: Corvette
+    400004: Cruiser
+    400006: Destroyer
+    400008: Frigate
+    400010: Large Cannons
+    400012: Large Turret
+    400014: Medium Cannons
+    400016: Medium Turret
+    400018: Platform
+    400020: //RootNode
+    400022: Small Cannons
+    400024: Small Turret
+    400026: Battleship Low Poly Mesh
+    400028: Corvette Low Poly Mesh
+    400030: Cruiser Low Poly Mesh
+    400032: Destroyer Low Poly Mesh
+    400034: Frigate Low Poly Mesh
+    2300000: Battleship
+    2300002: Corvette
+    2300004: Cruiser
+    2300006: Destroyer
+    2300008: Frigate
+    2300010: Large Cannons
+    2300012: Large Turret
+    2300014: Medium Cannons
+    2300016: Medium Turret
+    2300018: Platform
+    2300020: Small Cannons
+    2300022: Small Turret
+    2300024: Battleship Low Poly Mesh
+    2300026: Corvette Low Poly Mesh
+    2300028: Cruiser Low Poly Mesh
+    2300030: Destroyer Low Poly Mesh
+    2300032: Frigate Low Poly Mesh
+    3300000: Battleship
+    3300002: Corvette
+    3300004: Cruiser
+    3300006: Destroyer
+    3300008: Frigate
+    3300010: Large Cannons
+    3300012: Large Turret
+    3300014: Medium Cannons
+    3300016: Medium Turret
+    3300018: Platform
+    3300020: Small Cannons
+    3300022: Small Turret
+    3300024: Battleship Low Poly Mesh
+    3300026: Corvette Low Poly Mesh
+    3300028: Cruiser Low Poly Mesh
+    3300030: Destroyer Low Poly Mesh
+    3300032: Frigate Low Poly Mesh
+    4300000: Battleship
+    4300002: Cruiser
+    4300004: Destroyer
+    4300006: Frigate
+    4300008: Corvette
+    4300010: Large Turret
+    4300012: Medium Turret
+    4300014: Small Turret
+    4300016: Large Cannons
+    4300018: Medium Cannons
+    4300020: Small Cannons
+    4300022: Platform
+    4300024: Battleship Low Poly Mesh
+    4300026: Cruiser Low Poly Mesh
+    4300028: Destroyer Low Poly Mesh
+    4300030: Frigate Low Poly Mesh
+    4300032: Corvette Low Poly Mesh
+    6400000: Battleship
+    6400002: Corvette
+    6400004: Cruiser
+    6400006: Destroyer
+    6400008: Frigate
+    6400010: Large Cannons
+    6400012: Large Turret
+    6400014: Medium Cannons
+    6400016: Medium Turret
+    6400018: Platform
+    6400020: Small Cannons
+    6400022: Small Turret
+    6400024: Battleship Low Poly Mesh
+    6400026: Corvette Low Poly Mesh
+    6400028: Cruiser Low Poly Mesh
+    6400030: Destroyer Low Poly Mesh
+    6400032: Frigate Low Poly Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13.001'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13.002'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13.003'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13.005'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13.009'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14'
+    second: {fileID: 2100000, guid: 39fcfa625a4168a48b7f47d9cc5a7345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14.002'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14.003'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14.005'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14.009'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2c1b7d1490d4a2a44b60b2d3d312d968, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

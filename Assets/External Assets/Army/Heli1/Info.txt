@@ -1,0 +1,21 @@
+Heli1 with Glass texture and cockpit (1025 Polys)
+
+- Comes with 4 different 1K TIF Textures
+- Pilot (946 Polys)
+- Instrument Panel has an Illumination texture for the lights
+- Animation 1-30 for rotor rotations.
+
+
+Heli2 Basic low Poly model (538 Polys)
+
+- Comes with 1 1K TIF Texture
+- Animation 1-30 for rotor rotations.
+
+All objects are seperate and parented to the main body.
+
+
+duanesmind@gmail.com
+
+http://duanesmind.wix.com/3dportfolio
+
+

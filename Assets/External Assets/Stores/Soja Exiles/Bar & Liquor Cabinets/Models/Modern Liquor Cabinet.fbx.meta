@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: fe73d14489f153e4485e26243ed30d09
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Box
+    100004: Door L
+    100006: Door R
+    100008: Drawer
+    100010: Drawer Box
+    100012: Handle
+    100014: Handle.001
+    100016: Knob
+    100018: Legs
+    100020: Mid
+    100022: //RootNode
+    100024: Shelf
+    100026: Stand
+    100028: Table C
+    100030: Table L
+    100032: Table R
+    100034: Wine Rack
+    400000: Base
+    400002: Box
+    400004: Door L
+    400006: Door R
+    400008: Drawer
+    400010: Drawer Box
+    400012: Handle
+    400014: Handle.001
+    400016: Knob
+    400018: Legs
+    400020: Mid
+    400022: //RootNode
+    400024: Shelf
+    400026: Stand
+    400028: Table C
+    400030: Table L
+    400032: Table R
+    400034: Wine Rack
+    2100000: No Name
+    2300000: Base
+    2300002: Box
+    2300004: Door L
+    2300006: Door R
+    2300008: Drawer
+    2300010: Drawer Box
+    2300012: Handle
+    2300014: Handle.001
+    2300016: Knob
+    2300018: Legs
+    2300020: Mid
+    2300022: Shelf
+    2300024: Stand
+    2300026: Table C
+    2300028: Table L
+    2300030: Table R
+    2300032: Wine Rack
+    3300000: Base
+    3300002: Box
+    3300004: Door L
+    3300006: Door R
+    3300008: Drawer
+    3300010: Drawer Box
+    3300012: Handle
+    3300014: Handle.001
+    3300016: Knob
+    3300018: Legs
+    3300020: Mid
+    3300022: Shelf
+    3300024: Stand
+    3300026: Table C
+    3300028: Table L
+    3300030: Table R
+    3300032: Wine Rack
+    4300000: Box
+    4300002: Wine Rack
+    4300004: Drawer Box
+    4300006: Drawer
+    4300008: Knob
+    4300010: Shelf
+    4300012: Base
+    4300014: Table R
+    4300016: Table L
+    4300018: Table C
+    4300020: Door L
+    4300022: Handle.001
+    4300024: Door R
+    4300026: Handle
+    4300028: Legs
+    4300030: Stand
+    4300032: Mid
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

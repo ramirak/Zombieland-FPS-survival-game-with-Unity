@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 5a1710e01a2c88242a4499f68198d1f7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base Wine Rack
+    100002: Center Cabinet
+    100004: Center Cabinet.001
+    100006: Center Cabinet.004
+    100008: Center Cabinet.036
+    100010: Center Counter
+    100012: Drawer
+    100014: Drawer.001
+    100016: Drawer.002
+    100018: //RootNode
+    100020: Side Cab
+    100022: Side Counter
+    100024: Tower Cab
+    100026: Wine Rack
+    100028: Wine Rack.001
+    100030: Wine Rack.002
+    400000: Base Wine Rack
+    400002: Center Cabinet
+    400004: Center Cabinet.001
+    400006: Center Cabinet.004
+    400008: Center Cabinet.036
+    400010: Center Counter
+    400012: Drawer
+    400014: Drawer.001
+    400016: Drawer.002
+    400018: //RootNode
+    400020: Side Cab
+    400022: Side Counter
+    400024: Tower Cab
+    400026: Wine Rack
+    400028: Wine Rack.001
+    400030: Wine Rack.002
+    2100000: No Name
+    2300000: Base Wine Rack
+    2300002: Center Cabinet
+    2300004: Center Cabinet.001
+    2300006: Center Cabinet.004
+    2300008: Center Cabinet.036
+    2300010: Center Counter
+    2300012: Drawer
+    2300014: Drawer.001
+    2300016: Drawer.002
+    2300018: Side Cab
+    2300020: Side Counter
+    2300022: Tower Cab
+    2300024: Wine Rack
+    2300026: Wine Rack.001
+    2300028: Wine Rack.002
+    3300000: Base Wine Rack
+    3300002: Center Cabinet
+    3300004: Center Cabinet.001
+    3300006: Center Cabinet.004
+    3300008: Center Cabinet.036
+    3300010: Center Counter
+    3300012: Drawer
+    3300014: Drawer.001
+    3300016: Drawer.002
+    3300018: Side Cab
+    3300020: Side Counter
+    3300022: Tower Cab
+    3300024: Wine Rack
+    3300026: Wine Rack.001
+    3300028: Wine Rack.002
+    4300000: Side Cab
+    4300002: Base Wine Rack
+    4300004: Drawer
+    4300006: Center Cabinet.004
+    4300008: Side Counter
+    4300010: Tower Cab
+    4300012: Wine Rack.001
+    4300014: Center Cabinet
+    4300016: Wine Rack.002
+    4300018: Wine Rack
+    4300020: Drawer.001
+    4300022: Center Cabinet.036
+    4300024: Center Counter
+    4300026: Drawer.002
+    4300028: Center Cabinet.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

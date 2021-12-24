@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: minibus_default_blck
+  m_Shader: {fileID: 4800000, guid: 3ff978f6de0b6f747b35dad5293e8566, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 73240d2c60cbff94488f11fe2fdfb43a, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 09f9701199713cf4293cbe63851917d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IllumText:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ed43ffd5a7564184e9e9e2cd31c74191, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 55bd2a58389c816478fa7c5cdd5f7ded, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 991300180fc75f14481d7a9d7c31cb3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Shining:
+        m_Texture: {fileID: 2800000, guid: 7dc6f2d8ca8a4864181124e23a261fad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _cubemap:
+        m_Texture: {fileID: 8900000, guid: 2b9f65f9313cb424c9fe4ae3882fc5e1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _illum:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _shining:
+        m_Texture: {fileID: 2800000, guid: 91c85f13cbb4fcc44808a35ebe2cd222, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ADD_gloss: 0.9153439
+    - _GlossHigh: 0.7169596
+    - _GlossLow: 0.1666343
+    - _HighSpecMultiplayer: 1.91453
+    - _Shininess: 0.7
+    - _range: 0.20895523
+    m_Colors:
+    - _ADD_specular: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _CubeColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _DiffColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _HighSpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _IllumColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LowSpecColor: {r: 0.07352942, g: 0.07352942, b: 0.07352942, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _color: {r: 0.7164179, g: 0.6469147, b: 0.6469147, a: 1}
+    - _color_cubemap: {r: 0.36567163, g: 0.36567163, b: 0.36567163, a: 1}
+    - _color_illum: {r: 1, g: 1, b: 1, a: 1}
+    - _diff_color: {r: 1, g: 0.977612, b: 0.977612, a: 1}
+  m_BuildTextureStacks: []

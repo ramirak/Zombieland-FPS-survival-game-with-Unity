@@ -1,0 +1,29 @@
+Thank you for purchasing the Blades & Bludgeonings Impact Sounds Pack.
+
+As you can see this pack contains nothing but sounds files so you should easily be able to hit the ground running.
+
+All files are in Ogg format recorded in Mono at 48khz.
+
+We strongly recommend watching the entire sample video found here: https://www.youtube.com/watch?v=sQsGNnwwBIo
+The video gives a clear insite to the design and overall management of the various sounds in the pack, along with some basic recommendations that should make your sound development process a lot easier.
+
+We're always interested in getting feedback, so if you have an suggestions or small requests, please feel free to contact at Support@IdiaSoftware.net.   We check the email atleast twice a day so you should expect a swift response.
+
+Finally, We know it can be annoying, but please take just a minute or two and right a quick review of the asset.  I myself have purchased many in the past so I know wrighting a review probably isn't the first thing on your mind. However it really does help us publishers, getting feedback isn't just important for sales, it is also very important for making improvements and providing better assets for the future.
+
+Not sure if you need it, but below is the list of every sound in the pack.  As always, enjoy, and happy gaming!
+
+
+BladeDeflection3-Free-1
+BladeHack4-Free-1
+BluntImpact6-Free-1
+BluntImpact8-Free-1
+BluntImpact-MetalClank4-Free-1
+BluntImpact-MetalClank-Dropping-Free-1
+BluntImpact-Wooden2-Free-1
+Kicked2-Free-1
+Punched2-Free-1
+Slice-MetalClank2-Free-1
+Stab1-Free-1
+Swing1-Free-1
+Swing4-Free-1
